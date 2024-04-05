@@ -10,6 +10,11 @@ O desafio consistia em criar uma calculadora capaz de realizar operações bási
 
 ![Calculator JS - Google Chrome 2024-04-04 21-42-17 (online-video-cutter com)](https://github.com/Guivieirasilva/calculator/assets/95317866/d2346263-350a-4a6c-b5a4-59ad79270cc3)
 
+## Projeto Online
+
+Você pode acessar o projeto online [aqui](https://calculatorjstesting.netlify.app/).
+
+
 ### Recursos Utilizados
 
 - **HTML**: Utilizado para estruturar a calculadora.
