@@ -1,6 +1,6 @@
-# Resolução do Teste Técnico - Calculadora Simples
+# Resolução do Teste Técnico - Calculadora
 
-Neste teste técnico, foi desenvolvida uma calculadora simples utilizando HTML, CSS e JavaScript.
+Neste teste técnico, foi desenvolvida uma calculadora utilizando HTML, CSS e JavaScript.
 
 ## Desafio
 
